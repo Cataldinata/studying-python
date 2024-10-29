@@ -1,8 +1,8 @@
 # INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON - SANTANDER OPEN ACADEMY (2024) 💻🐍
 
-<h2>História do Python</h2>
+### História do Python
 
-    O Python foi criado no final dos anos 80 e começo dos anos 90, pelo programdor holandês Guido van Rossum. A primeira versão, o Python 0.9.0, foi lançada em 1991.
+    <p> O Python foi criado no final dos anos 80 e começo dos anos 90, pelo programdor holandês Guido van Rossum. A primeira versão, o Python 0.9.0, foi lançada em 1991. </p>
 
 <h2>Caracterísitcas gerais e importantes do Python</h2>
 
