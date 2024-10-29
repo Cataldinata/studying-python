@@ -22,3 +22,16 @@ O Python foi criado no final dos anos 80 e começo dos anos 90, pelo programdor 
 
 ➡️ **Comunidade ativa**
         Possui uma comunidade de desenvolvedores grande e ativa que contribui com bibliotecas, frameworks e ferramentas adicionais.
+
+### 🧑🏻‍💻 Áreas de Aplicação do Python
+
+➡️ **Desenvolvimento Web**
+        Utilizado muito no backend com frameworks como o Django e Flask.
+➡️ **Ciência de dados**
+        Muito utilizado devido suas bibliotecas como NumPy, Pandas e Matplotlib.
+➡️ **IA's e ML**
+        Se torna a principal escolha para Inteligência Artificial e Machine Learning devido a bibliotecas como TensorFlow e Scikit-learn.
+➡️ **Automação de tarefas**
+
+➡️ **Gamedev**
+        Muito utilizado para jogos graças às suas bibliotecas, como Pygame.
