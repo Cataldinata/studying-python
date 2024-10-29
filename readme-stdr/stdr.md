@@ -1,9 +1,9 @@
 # INTRODUÇÃO À PROGRAMAÇÃO COM PYTHON - SANTANDER OPEN ACADEMY (2024) 💻🐍
 
-### História do Python
+### 📜 História do Python
 O Python foi criado no final dos anos 80 e começo dos anos 90, pelo programdor holandês Guido van Rossum. A primeira versão, o Python 0.9.0, foi lançada em 1991.
 
-### Caracterísitcas gerais e importantes do Python
+### ⚙️ Caracterísitcas gerais e importantes do Python
 
 ➡️ **Legibilidade**
         A linguagem possui uma linguagem simples e clara, indentação (espaços ou tabulações) para delimitar blocos, deixando um estilo de programação estrututrada e legível.
