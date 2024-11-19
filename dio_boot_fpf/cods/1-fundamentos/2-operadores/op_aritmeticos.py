@@ -47,8 +47,8 @@ print(text_radiciacao) # resultado = 2.0
 # 3° multiplicação e divisão (da esquerda para a direita)
 # 4° adição e subtração (da esquerda para a direita)
 
-expressao_1 = 10 + 3 / (4-2)
+expressao_1 = 10 + 3 / (4-3)
 print(expressao_1)
 
-expressao_2 = (10 + 3) / (4-2)
+expressao_2 = (10 + 3) / (4-3)
 print(expressao_2)
